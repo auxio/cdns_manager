@@ -1,3 +1,9 @@
+cdns_manager
+============
+
+cdns_manager is a special dns_manager for the CstyleX theme for Sentora.
+It maybe also good for other non Bootstrap themes.
+
 ##WARRANTY
 
 THE MODULE IS DISTRIBUTED IN THE HOPE THAT IT WILL BE USEFUL, BUT WITHOUT ANY WARRANTY. 
